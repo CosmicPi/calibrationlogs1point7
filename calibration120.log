@@ -1,0 +1,165 @@
+[!p[?3;4l[4l>[0m(B[?1h=[H[2J[?12l[?25h
+Welcome to minicom 2.7.1
+
+OPTIONS: I18n 
+Compiled on Aug 13 2017, 15:25:34.
+Port /dev/serial0, 11:46:24
+
+Press CTRL-A Z for help on special keys
+
+Completed GPS init.
+Initialise IMU...
+Reg writing IMU
+Reg writing mmu
+Platform init...
+Boot delay...
+ID check...
+ID return...
+Whoamivals imu: 104, mag: 61 
+Config restore...
+Set scale...
+Set bandwidth...
+Set outputmode...
+Completed.
+Setting DAC
+[23;80H [24;1H
+[23;80H [24;1HSetting DAC
+[23;80H [24;1H
+[23;80H [24;1HSetting HV
+[23;80H [24;1HSetting HV
+[23;80H [24;1Htimer init - GPS
+[23;80H [24;1Htimer init - EVT
+[23;80H [24;1HStarting timer 2
+[23;80H [24;1Hrunning
+[23;80H [24;1HLoading calibration values from flash 
+[23;80H [24;1HReadback EEPROM location 1: 1 
+[23;80H [24;1HValid values found, loading 
+[23;80H [24;1HReadback EEPROM location 2: 700 
+[23;80H [24;1HReadback EEPROM location 3: 700 
+[23;80H [24;1HReadback EEPROM location 4: 180 
+[23;80H [24;1HReadback EEPROM location 5: 180 
+[23;80H [24;1HSetting DAC
+[23;80H [24;1H
+[23;80H [24;1HSetting DAC
+[23;80H [24;1H
+[23;80H [24;1HSetting HV
+[23;80H [24;1HSetting HV
+[23;80H [24;1H$$GNZDA,104708.000,21,07,2020,,*46
+[23;80H [24;1H$GPGGA,104708.000,4613.2226,N,00607.9337,E,2,17,0.69,428.2,M,48.2,M,,*65
+[23;80H [24;1H$GAltitude: 375.801025;
+[23;80H [24;1HTemperatureCBaro: 29.360001;
+[23;80H [24;1HPressure: 971.004822;
+[23;80H [24;1HHumidity: 37.272461;
+[23;80H [24;1HAccelX: -0.065803;
+[23;80H [24;1HAccelY: -0.048455;
+[23;80H [24;1HAccelZ: 9.644272;
+[23;80H [24;1HMagX: -0.066700;
+[23;80H [24;1HMagY: 0.438480;
+[23;80H [24;1HMagZ: -0.504600;
+[23;80H [24;1HTemperatureCHumid:27.500000;
+[23;80H [24;1HTemperatureC: 28.430000;
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HEvent: sub second micros:1843087/41747926; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:34173765/41747926; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:0/41747926; Event Count: 3
+[23;80H [24;1HNA,104709.000,4613.2226,N,00607.9337,E,2,17,0.69,428.2,M,48.2,M,,*64
+[23;80H [24;1H$GNZDA,104710.000,21,07,2020,,*4F
+[23;80H [24;1H$GPGGA,104710.000,4613.2226,N,00607.9337,E,2,17,0.69,428.2,M,48.2,M,,*6C
+[23;80H [24;1H$GNZDA,104711.000,21,07,2020,,*4E
+[23;80H [24;1H$GPGGA,104711.000,4613.2226,N,00607.9337,E,2,17,0.69,428.2,M,48.2,M,,*6D
+[23;80H [24;1H$GNZDA,104712.000,21,07,2020,,*4D
+[23;80H [24;1H$GPGGA,104712.000,4613.2226,N,00607.9337,E,2,17,0.69,428.2,M,48.2,M,,*6E
+[23;80H [24;1H$GNZDA,104713.000,21,07,2020,,*4C
+[23;80H [24;1H$GPGGA,104713.000,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*65
+[23;80H [24;1H$GNZDAAltitude: 375.516846;
+[23;80H [24;1HTemperatureCBaro: 29.370001;
+[23;80H [24;1HPressure: 971.037842;
+[23;80H [24;1HHumidity: 37.249023;
+[23;80H [24;1HAccelX: -0.064008;
+[23;80H [24;1HAccelY: -0.049651;
+[23;80H [24;1HAccelZ: 9.654441;
+[23;80H [24;1HMagX: -0.068440;
+[23;80H [24;1HMagY: 0.441960;
+[23;80H [24;1HMagZ: -0.504020;
+[23;80H [24;1HTemperatureCHumid:27.500000;
+[23;80H [24;1HTemperatureC: 28.435001;
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HEvent: sub second micros:1598542/41739271; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:22349530/41739271; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:28306694/41739271; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:21905645/41739271; Event Count: 4
+[23;80H [24;1H,00,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*62
+[23;80H [24;1H$GNZAltitude: 375.361755;
+[23;80H [24;1HTemperatureCBaro: 29.370001;
+[23;80H [24;1HPressure: 971.055786;
+[23;80H [24;1HHumidity: 37.250000;
+[23;80H [24;1HAccelX: -0.056231;
+[23;80H [24;1HAccelY: -0.038285;
+[23;80H [24;1HAccelZ: 9.656236;
+[23;80H [24;1HMagX: -0.071920;
+[23;80H [24;1HMagY: 0.439060;
+[23;80H [24;1HMagZ: -0.506920;
+[23;80H [24;1HTemperatureCHumid:26.500000;
+[23;80H [24;1HTemperatureC: 27.935001;
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HEvent: sub second micros:23357922/41742832; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:22349530/41742832; Event Count: 2
+[23;80H [24;1HDGGA,104715.000,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*63
+[23;80H [24;1H$GNZDA,1Altitude: 375.694336;
+[23;80H [24;1HTemperatureCBaro: 29.379999;
+[23;80H [24;1HPressure: 971.017212;
+[23;80H [24;1HHumidity: 37.250000;
+[23;80H [24;1HAccelX: -0.061017;
+[23;80H [24;1HAccelY: -0.044267;
+[23;80H [24;1HAccelZ: 9.638887;
+[23;80H [24;1HMagX: -0.071340;
+[23;80H [24;1HMagY: 0.436160;
+[23;80H [24;1HMagZ: -0.505760;
+[23;80H [24;1HTemperatureCHumid:27.500000;
+[23;80H [24;1HTemperatureC: 28.439999;
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HEvent: sub second micros:13159051/41747823; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:22349530/41747823; Event Count: 2
+[23;80H [24;1H0104716.000,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*60
+[23;80H [24;1H$GNZAltitude: 375.601685;
+[23;80H [24;1HTemperatureCBaro: 29.379999;
+[23;80H [24;1HPressure: 971.027954;
+[23;80H [24;1HHumidity: 37.250000;
+[23;80H [24;1HAccelX: -0.061017;
+[23;80H [24;1HAccelY: -0.046062;
+[23;80H [24;1HAccelZ: 9.643673;
+[23;80H [24;1HMagX: -0.063800;
+[23;80H [24;1HMagY: 0.437320;
+[23;80H [24;1HMagZ: -0.501700;
+[23;80H [24;1HTemperatureCHumid:27.500000;
+[23;80H [24;1HTemperatureC: 28.439999;
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HEvent: sub second micros:38556006/41748419; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:40034222/41748419; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:28306694/41748419; Event Count: 3
+[23;80H [24;1HD04717.000,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*61
+[23;80H [24;1H$GNZDAltitude: 375.419006;
+[23;80H [24;1HTemperatureCBaro: 29.379999;
+[23;80H [24;1HPressure: 971.049194;
+[23;80H [24;1HHumidity: 37.261719;
+[23;80H [24;1HAccelX: -0.064606;
+[23;80H [24;1HAccelY: -0.046660;
+[23;80H [24;1HAccelZ: 9.653245;
+[23;80H [24;1HMagX: -0.064960;
+[23;80H [24;1HMagY: 0.433260;
+[23;80H [24;1HMagZ: -0.504600;
+[23;80H [24;1HTemperatureCHumid:26.500000;
+[23;80H [24;1HTemperatureC: 27.939999;
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HA,*47
+[23;80H [24;1H$GPGGA,104718.000,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*6E
+[23;80H [24;1H$GNZDA,104719.000,21,07,2020,,*46
+[23;80H [24;1H$GPGGA,104719.000,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*6F
+[23;80H [24;1H$GNZDA,104720.000,21,07,2020,,*4C
+[23;80H [24;1H$GPGGA,104720.000,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*65
+[23;80H [24;1H$GNZDA,104721.000,21,07,2020,,*4D
+[23;80H [24;1H$GPGGA,104721.000,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*64
+[23;80H [24;1H$GNZDA,104722.000,21,07,2020,,*4E
+[23;80H [24;1H$GPGGA,104722.000,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*67
+[23;80H [24;1H$GNZDA,104723.000,21,07,2020,,*4F
+[23;80H [24;1H$GPGGA,104723.000,4613.2226,N,00607.9337,E,2,16,0.73,428.2,M,48.2,M,,*66[0m(B[7m[K[?12l[?25h[?25lCTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | erial0[?12l[?25h[24;73H[8;30H[?25l[0m(B+----------------------+[9;30H|    Leave Minicom?    |[10;30H|               No     |[11;30H+----------------------+[10;51H[?25l[10;33H[0m(B[7m   Yes  [?12l[?25h[8;1H[0m(BMagY: 0.433260;                                      [9;1HMagZ: -0.504600;                                     [10;1HTemperatureCHumid:26.500000;                         [11;1HTemperatureC: 27.939999;                             [24;73H[0m(B[7m[?12l[?25h[?12l[?25h[0m(B[H[2J[?12l[?25h[?1l>[!p[?3;4l[4l>
