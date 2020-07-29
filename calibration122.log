@@ -33,4 +33,1463 @@ Platform init...
 [23;80H [24;1HCompleted.
 [23;80H [24;1HBMP280: found BME280
 [23;80H [24;1HLaunch GPS init
-[23;80H [24;1H[0m(B[7m[K[?12l[?25h[?25lCTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | erial0[?12l[?25h[8;30H[?25l[0m(B+----------------------+[9;30H|    Leave Minicom?    |[10;30H|               No     |[11;30H+----------------------+[10;51H[?25l[10;33H[0m(B[7m   Yes  [?12l[?25h[8;1H[0m(BCosmic Pi Version 1.7 startup                        [9;1HInitialise IMU...                                    [10;1HReg writing IMU                                      [11;1HReg writing mmu                                      [24;1H[0m(B[7m[?12l[?25h[?12l[?25h[0m(B[H[2J[?12l[?25h[?1l>[!p[?3;4l[4l>
+[23;80H [24;1HCompleted GPS init.
+[23;80H [24;1Htimer init - GPS
+[23;80H [24;1HLoading calibration values from flash 
+[23;80H [24;1HReadback EEPROM location 1: 1 
+[23;80H [24;1HValid values found, loading 
+[23;80H [24;1HReadback EEPROM location 2: 750 
+[23;80H [24;1HReadback EEPROM location 3: 750 
+[23;80H [24;1HReadback EEPROM location 4: 185 
+[23;80H [24;1HReadback EEPROM location 5: 185 
+[23;80H [24;1HSetting DAC
+[23;80H [24;1H
+[23;80H [24;1HSetting DAC completed.
+[23;80H [24;1HSetting DAC
+[23;80H [24;1H
+[23;80H [24;1HSetting DAC completed.
+[23;80H [24;1HSetting HV
+[23;80H [24;1HSetting HV completed.
+[23;80H [24;1HSetting HV
+[23;80H [24;1HSetting HV completed.
+[23;80H [24;1H$$$$GNZDA,235947.799,05,01,1980,,*45
+[23;80H [24;1H$GPGGA,235947.799,,,,,0,0,,,M,,M,,*41
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,235948.799,05,01,1980,,*4A
+[23;80H [24;1H$GPGGA,235948.799,,,,,0,0,,,M,,M,,*4E
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,235949.799,05,01,1980,,*4B
+[23;80H [24;1H$GPGGA,235949.799,,,,,0,0,,,M,,M,,*4F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,235950.756,05,01,1980,,*40
+[23;80H [24;1H$GPGGA,235950.756,,,,,0,0,,,M,,M,,*44
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,235951.756,05,01,1980,,*41
+[23;80H [24;1H$GPGGA,235951.756,,,,,0,0,,,M,,M,,*45
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214108.093,09,01,1980,,*44
+[23;80H [24;1H$GPGGA,214108.093,,,,,0,0,,,M,,M,,*4C
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214109.093,09,01,1980,,*45
+[23;80H [24;1H$GPGGA,214109.093,,,,,0,0,,,M,,M,,*4D
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214110.093,29,07,2020,,*49
+[23;80H [24;1H$GPGGA,214110.093,,,,,0,0,,,M,,M,,*45
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214111.093,29,07,2020,,*48
+[23;80H [24;1H$GPGGA,214111.093,,,,,0,0,,,M,,M,,*44
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214112.093,29,07,2020,,*4B
+[23;80H [24;1H$GPGGA,214112.093,,,,,0,0,,,M,,M,,*47
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214113.093,29,07,2020,,*4A
+[23;80H [24;1H$GPGGA,214113.093,,,,,0,0,,,M,,M,,*46
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214114.093,29,07,2020,,*4D
+[23;80H [24;1H$GPGGA,214114.093,,,,,0,0,,,M,,M,,*41
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214115.093,29,07,2020,,*4C
+[23;80H [24;1H$GPGGA,214115.093,,,,,0,0,,,M,,M,,*40
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214116.093,29,07,2020,,*4F
+[23;80H [24;1H$GPGGA,214116.093,,,,,0,0,,,M,,M,,*43
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214117.093,29,07,2020,,*4E
+[23;80H [24;1H$GPGGA,214117.093,,,,,0,0,,,M,,M,,*42
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214118.093,29,07,2020,,*41
+[23;80H [24;1H$GPGGA,214118.093,,,,,0,0,,,M,,M,,*4D
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214119.093,29,07,2020,,*40
+[23;80H [24;1H$GPGGA,214119.093,,,,,0,0,,,M,,M,,*4C
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214120.093,29,07,2020,,*4A
+[23;80H [24;1H$GPGGA,214120.093,,,,,0,0,,,M,,M,,*46
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214121.093,29,07,2020,,*4B
+[23;80H [24;1H$GPGGA,214121.093,,,,,0,0,,,M,,M,,*47
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214122.093,29,07,2020,,*48
+[23;80H [24;1H$GPGGA,214122.093,,,,,0,0,,,M,,M,,*44
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214123.093,29,07,2020,,*49
+[23;80H [24;1H$GPGGA,214123.093,,,,,0,0,,,M,,M,,*45
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214124.085,29,07,2020,,*49
+[23;80H [24;1H$GPGGA,214124.085,,,,,0,0,,,M,,M,,*45
+[23;80H [24;1H$GNZDA,214124.304,29,07,2020,,*43
+[23;80H [24;1H$GPGGA,214124.304,,,,,0,0,,,M,,M,,*4F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214125.304,29,07,2020,,*42
+[23;80H [24;1H$GPGGA,214125.304,,,,,0,0,,,M,,M,,*4E
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214126.304,29,07,2020,,*41
+[23;80H [24;1H$GPGGA,214126.304,,,,,0,0,,,M,,M,,*4D
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214127.304,29,07,2020,,*40
+[23;80H [24;1H$GPGGA,214127.304,,,,,0,0,,,M,,M,,*4C
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214128.304,29,07,2020,,*4F
+[23;80H [24;1H$GPGGA,214128.304,,,,,0,0,,,M,,M,,*43
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214129.304,29,07,2020,,*4E
+[23;80H [24;1H$GPGGA,214129.304,,,,,0,0,,,M,,M,,*42
+[23;80H [24;1H
+[23;80H [24;1H$GNZDA,214130.084,29,07,2020,,*4D
+[23;80H [24;1H$GPGGA,214130.084,4613.2180,N,00607.9763,E,1,4,1.93,493.2,M,48.2,M,,*59
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.723511;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.158569;
+[23;80H [24;1HHumidity: 38.946289;
+[23;80H [24;1HAccelX: -0.302094;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.518050;
+[23;80H [24;1HMagX: 0.207640;
+[23;80H [24;1HMagY: -0.246500;
+[23;80H [24;1HMagZ: -1.937780;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1H$GNZDA,214131.084,29,07,2020,,*4C
+[23;80H [24;1H$GPGGA,214131.084,4613.2265,N,00607.9472,E,1,5,1.41,436.8,M,48.2,M,,*58
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.723511;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.158569;
+[23;80H [24;1HHumidity: 38.946289;
+[23;80H [24;1HAccelX: -0.295514;
+[23;80H [24;1HAccelY: -0.206979;
+[23;80H [24;1HAccelZ: 9.512068;
+[23;80H [24;1HMagX: 0.208800;
+[23;80H [24;1HMagY: -0.237220;
+[23;80H [24;1HMagZ: -1.933720;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:28256473/41752960; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:0/41752960; Event Count: 2
+[23;80H [24;1H$GNZDA,214132.084,29,07,2020,,*4F
+[23;80H [24;1H$GPGGA,214132.084,4613.2268,N,00607.9458,E,1,5,1.41,434.4,M,48.2,M,,*50
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.958069;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.131409;
+[23;80H [24;1HHumidity: 38.933594;
+[23;80H [24;1HAccelX: -0.297906;
+[23;80H [24;1HAccelY: -0.208774;
+[23;80H [24;1HAccelZ: 9.513265;
+[23;80H [24;1HMagX: 0.201840;
+[23;80H [24;1HMagY: -0.238960;
+[23;80H [24;1HMagZ: -1.940680;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:10007985/41746741; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:0/41746741; Event Count: 2
+[23;80H [24;1H$GNZDA,214134.000,29,07,2020,,*45
+[23;80H [24;1H$GPGGA,214134.000,4613.2267,N,00607.9451,E,1,5,1.41,434.4,M,48.2,M,,*5C
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.875183;
+[23;80H [24;1HTemperatureCBaro: 31.990000;
+[23;80H [24;1HPressure: 969.140991;
+[23;80H [24;1HHumidity: 38.921875;
+[23;80H [24;1HAccelX: -0.298505;
+[23;80H [24;1HAccelY: -0.210568;
+[23;80H [24;1HAccelZ: 9.517452;
+[23;80H [24;1HMagX: 0.196620;
+[23;80H [24;1HMagY: -0.224460;
+[23;80H [24;1HMagZ: -1.933140;
+[23;80H [24;1HTemperatureCHumid:28.500000;
+[23;80H [24;1HTemperatureC: 30.244999;
+[23;80H [24;1HEvent: sub second micros:5673018/41245032; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:38939987/41245032; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:26861154/41245032; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:0/41245032; Event Count: 4
+[23;80H [24;1H$GNZDA,214135.000,29,07,2020,,*44
+[23;80H [24;1H$GPGGA,214135.000,4613.2264,N,00607.9447,E,1,5,1.41,435.3,M,48.2,M,,*5F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.572327;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.176086;
+[23;80H [24;1HHumidity: 38.946289;
+[23;80H [24;1HAccelX: -0.299103;
+[23;80H [24;1HAccelY: -0.209372;
+[23;80H [24;1HAccelZ: 9.531809;
+[23;80H [24;1HMagX: 0.189080;
+[23;80H [24;1HMagY: -0.222720;
+[23;80H [24;1HMagZ: -1.931400;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1H$GNZDA,214136.000,29,07,2020,,*47
+[23;80H [24;1H$GPGGA,214136.000,4613.2262,N,00607.9443,E,1,5,1.41,436.1,M,48.2,M,,*5F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.656250;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.166382;
+[23;80H [24;1HHumidity: 38.934570;
+[23;80H [24;1HAccelX: -0.296710;
+[23;80H [24;1HAccelY: -0.208774;
+[23;80H [24;1HAccelZ: 9.520443;
+[23;80H [24;1HMagX: 0.186180;
+[23;80H [24;1HMagY: -0.223300;
+[23;80H [24;1HMagZ: -1.932560;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:14257598/41750587; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:16477692/41750587; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:26219445/41750587; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:33187830/41750587; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:0/41750587; Event Count: 5
+[23;80H [24;1H$GNZDA,214137.000,29,07,2020,,*46
+[23;80H [24;1H$GPGGA,214137.000,4613.2260,N,00607.9439,E,1,5,1.41,436.8,M,48.2,M,,*58
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.840790;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.145020;
+[23;80H [24;1HHumidity: 38.933594;
+[23;80H [24;1HAccelX: -0.297906;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.513265;
+[23;80H [24;1HMagX: 0.196040;
+[23;80H [24;1HMagY: -0.217500;
+[23;80H [24;1HMagZ: -1.927340;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:15624170/41737566; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:17576360/41737566; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:24956391/41737566; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:30900901/41737566; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:40836560/41737566; Event Count: 5
+[23;80H [24;1HEvent: sub second micros:0/41737566; Event Count: 6
+[23;80H [24;1H$GNZDA,214138.000,29,07,2020,,*49
+[23;80H [24;1H$GPGGA,214138.000,4613.2259,N,00607.9435,E,1,5,1.41,437.7,M,48.2,M,,*5F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.773010;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.152832;
+[23;80H [24;1HHumidity: 38.934570;
+[23;80H [24;1HAccelX: -0.296112;
+[23;80H [24;1HAccelY: -0.208176;
+[23;80H [24;1HAccelZ: 9.513265;
+[23;80H [24;1HMagX: 0.193720;
+[23;80H [24;1HMagY: -0.221560;
+[23;80H [24;1HMagZ: -1.927340;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:10918494/41732314; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:13375862/41732314; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:23215264/41732314; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:29623465/41732314; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:40836560/41732314; Event Count: 5
+[23;80H [24;1H$GNZDA,214139.000,29,07,2020,,*48
+[23;80H [24;1H$GPGGA,214139.000,4613.2259,N,00607.9435,E,1,5,1.44,437.7,M,48.2,M,,*5B
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 392.276062;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.094543;
+[23;80H [24;1HHumidity: 38.933594;
+[23;80H [24;1HAccelX: -0.296710;
+[23;80H [24;1HAccelY: -0.208774;
+[23;80H [24;1HAccelZ: 9.515059;
+[23;80H [24;1HMagX: 0.193720;
+[23;80H [24;1HMagY: -0.223880;
+[23;80H [24;1HMagZ: -1.928500;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:17392859/41735351; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:13375862/41735351; Event Count: 2
+[23;80H [24;1H$GNZDA,214140.000,29,07,2020,,*46
+[23;80H [24;1H$GPGGA,214140.000,4613.2207,N,00607.9274,E,1,8,1.09,449.5,M,48.2,M,,*52
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.983612;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.128418;
+[23;80H [24;1HHumidity: 38.933594;
+[23;80H [24;1HAccelX: -0.296710;
+[23;80H [24;1HAccelY: -0.211765;
+[23;80H [24;1HAccelZ: 9.516854;
+[23;80H [24;1HMagX: 0.192560;
+[23;80H [24;1HMagY: -0.222720;
+[23;80H [24;1HMagZ: -1.931980;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:6785412/41744836; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:9137728/41744836; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:21078439/41744836; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:22497973/41744836; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:40836560/41744836; Event Count: 5
+[23;80H [24;1H$GNZDA,214141.000,29,07,2020,,*47
+[23;80H [24;1H$GPGGA,214141.000,4613.2208,N,00607.9279,E,1,8,1.09,449.5,M,48.2,M,,*51
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 392.158752;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.108154;
+[23;80H [24;1HHumidity: 38.921875;
+[23;80H [24;1HAccelX: -0.299701;
+[23;80H [24;1HAccelY: -0.209372;
+[23;80H [24;1HAccelZ: 9.515657;
+[23;80H [24;1HMagX: 0.189660;
+[23;80H [24;1HMagY: -0.220980;
+[23;80H [24;1HMagZ: -1.936620;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:18808618/41736712; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:34589650/41736712; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:21078439/41736712; Event Count: 3
+[23;80H [24;1H$GNZDA,214142.000,29,07,2020,,*44
+[23;80H [24;1H$GPGGA,214142.000,4613.2208,N,00607.9280,E,1,8,1.09,449.9,M,48.2,M,,*58
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 392.066498;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.118835;
+[23;80H [24;1HHumidity: 38.934570;
+[23;80H [24;1HAccelX: -0.299701;
+[23;80H [24;1HAccelY: -0.209372;
+[23;80H [24;1HAccelZ: 9.513265;
+[23;80H [24;1HMagX: 0.197200;
+[23;80H [24;1HMagY: -0.222140;
+[23;80H [24;1HMagZ: -1.938940;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:20532999/41741758; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:31613405/41741758; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:21078439/41741758; Event Count: 3
+[23;80H [24;1H$GNZDA,214143.000,29,07,2020,,*45
+[23;80H [24;1H$GPGGA,214143.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*59
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 392.032104;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.122803;
+[23;80H [24;1HHumidity: 38.922852;
+[23;80H [24;1HAccelX: -0.299103;
+[23;80H [24;1HAccelY: -0.209372;
+[23;80H [24;1HAccelZ: 9.513265;
+[23;80H [24;1HMagX: 0.193720;
+[23;80H [24;1HMagY: -0.216340;
+[23;80H [24;1HMagZ: -1.931400;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1H$GNZDA,214144.000,29,07,2020,,*42
+[23;80H [24;1H$GPGGA,214144.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*5E
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 392.124878;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.112061;
+[23;80H [24;1HHumidity: 38.922852;
+[23;80H [24;1HAccelX: -0.299103;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.513863;
+[23;80H [24;1HMagX: 0.190820;
+[23;80H [24;1HMagY: -0.217500;
+[23;80H [24;1HMagZ: -1.932560;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:3594701/41750981; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:7750287/41750981; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:13500259/41750981; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:25708127/41750981; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:27380909/41750981; Event Count: 5
+[23;80H [24;1HEvent: sub second micros:0/41750981; Event Count: 6
+[23;80H [24;1H$GNZDA,214145.000,29,07,2020,,*43
+[23;80H [24;1H$GPGGA,214145.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*5F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.865814;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.142090;
+[23;80H [24;1HHumidity: 38.933594;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.512068;
+[23;80H [24;1HMagX: 0.186760;
+[23;80H [24;1HMagY: -0.215180;
+[23;80H [24;1HMagZ: -1.932560;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:25436791/41734448; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:31740233/41734448; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:32796461/41734448; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:25708127/41734448; Event Count: 4
+[23;80H [24;1H$GNZDA,214146.000,29,07,2020,,*40
+[23;80H [24;1H$GPGGA,214146.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*5C
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.915314;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.136353;
+[23;80H [24;1HHumidity: 38.922852;
+[23;80H [24;1HAccelX: -0.299701;
+[23;80H [24;1HAccelY: -0.209372;
+[23;80H [24;1HAccelZ: 9.513863;
+[23;80H [24;1HMagX: 0.191400;
+[23;80H [24;1HMagY: -0.221560;
+[23;80H [24;1HMagZ: -1.938360;
+[23;80H [24;1HTemperatureCHumid:28.500000;
+[23;80H [24;1HTemperatureC: 30.250000;
+[23;80H [24;1HEvent: sub second micros:20761785/41738437; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:39299303/41738437; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:32796461/41738437; Event Count: 3
+[23;80H [24;1H$GNZDA,214147.000,29,07,2020,,*41
+[23;80H [24;1H$GPGGA,214147.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*5D
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 392.023743;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.123779;
+[23;80H [24;1HHumidity: 38.922852;
+[23;80H [24;1HAccelX: -0.298505;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.513863;
+[23;80H [24;1HMagX: 0.196040;
+[23;80H [24;1HMagY: -0.216340;
+[23;80H [24;1HMagZ: -1.945320;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:6377777/41742180; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:6877869/41742180; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:20988775/41742180; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:25708127/41742180; Event Count: 4
+[23;80H [24;1H$GNZDA,214148.000,29,07,2020,,*4E
+[23;80H [24;1H$GPGGA,214148.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*52
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.823059;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.147034;
+[23;80H [24;1HHumidity: 38.922852;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.209372;
+[23;80H [24;1HAccelZ: 9.513863;
+[23;80H [24;1HMagX: 0.187340;
+[23;80H [24;1HMagY: -0.219240;
+[23;80H [24;1HMagZ: -1.940680;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:4987400/41739269; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:19169404/41739269; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:20043754/41739269; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:24106031/41739269; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:27380909/41739269; Event Count: 5
+[23;80H [24;1H$GNZDA,214149.000,29,07,2020,,*4F
+[23;80H [24;1H$GPGGA,214149.000,4613.2208,N,00607.9282,E,1,7,1.33,450.3,M,48.2,M,,*55
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.646881;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.167480;
+[23;80H [24;1HHumidity: 38.922852;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.208176;
+[23;80H [24;1HAccelZ: 9.513863;
+[23;80H [24;1HMagX: 0.187340;
+[23;80H [24;1HMagY: -0.223300;
+[23;80H [24;1HMagZ: -1.934880;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:40717718/41735651; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:19169404/41735651; Event Count: 2
+[23;80H [24;1H$GNZDA,214150.000,29,07,2020,,*47
+[23;80H [24;1H$GPGGA,214150.000,4613.2208,N,00607.9282,E,1,7,1.33,450.3,M,48.2,M,,*5D
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.949219;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.132446;
+[23;80H [24;1HHumidity: 38.922852;
+[23;80H [24;1HAccelX: -0.296710;
+[23;80H [24;1HAccelY: -0.210568;
+[23;80H [24;1HAccelZ: 9.513265;
+[23;80H [24;1HMagX: 0.187920;
+[23;80H [24;1HMagY: -0.223300;
+[23;80H [24;1HMagZ: -1.938360;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:14459920/41744271; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:16098357/41744271; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:24386223/41744271; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:33958081/41744271; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:27380909/41744271; Event Count: 5
+[23;80H [24;1H$GNZDA,214151.000,29,07,2020,,*46
+[23;80H [24;1H$GPGGA,214151.000,4613.2208,N,00607.9282,E,1,7,1.33,450.3,M,48.2,M,,*5C
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 392.008118;
+[23;80H [24;1HTemperatureCBaro: 32.000000;
+[23;80H [24;1HPressure: 969.125610;
+[23;80H [24;1HHumidity: 38.922852;
+[23;80H [24;1HAccelX: -0.294915;
+[23;80H [24;1HAccelY: -0.209372;
+[23;80H [24;1HAccelZ: 9.515657;
+[23;80H [24;1HMagX: 0.187340;
+[23;80H [24;1HMagY: -0.217500;
+[23;80H [24;1HMagZ: -1.932560;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.750000;
+[23;80H [24;1HEvent: sub second micros:7070162/41736502; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:29221655/41736502; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:38592031/41736502; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:38916060/41736502; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:27380909/41736502; Event Count: 5
+[23;80H [24;1H$GNZDA,214152.000,29,07,2020,,*45
+[23;80H [24;1H$GPGGA,214152.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*59
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.729767;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.157837;
+[23;80H [24;1HHumidity: 38.922852;
+[23;80H [24;1HAccelX: -0.299701;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.517452;
+[23;80H [24;1HMagX: 0.188500;
+[23;80H [24;1HMagY: -0.215760;
+[23;80H [24;1HMagZ: -1.936620;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:29239309/41735566; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:33379993/41735566; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:38592031/41735566; Event Count: 3
+[23;80H [24;1H$GNZDA,214153.000,29,07,2020,,*44
+[23;80H [24;1H$GPGGA,214153.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*58
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.940857;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.133423;
+[23;80H [24;1HHumidity: 38.910156;
+[23;80H [24;1HAccelX: -0.300299;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.516854;
+[23;80H [24;1HMagX: 0.187920;
+[23;80H [24;1HMagY: -0.219240;
+[23;80H [24;1HMagZ: -1.925020;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:29552550/41741382; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:33379993/41741382; Event Count: 2
+[23;80H [24;1H$GNZDA,214154.000,29,07,2020,,*43
+[23;80H [24;1H$GPGGA,214154.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*5F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.763641;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.153931;
+[23;80H [24;1HHumidity: 38.922852;
+[23;80H [24;1HAccelX: -0.297906;
+[23;80H [24;1HAccelY: -0.212961;
+[23;80H [24;1HAccelZ: 9.515657;
+[23;80H [24;1HMagX: 0.193720;
+[23;80H [24;1HMagY: -0.220980;
+[23;80H [24;1HMagZ: -1.925020;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:1726778/41745179; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:9143542/41745179; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:12317110/41745179; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:39170177/41745179; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:40182755/41745179; Event Count: 5
+[23;80H [24;1HEvent: sub second micros:0/41745179; Event Count: 6
+[23;80H [24;1H$GNZDA,214155.000,29,07,2020,,*42
+[23;80H [24;1H$GPGGA,214155.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*5E
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.729767;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.157837;
+[23;80H [24;1HHumidity: 38.910156;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.212363;
+[23;80H [24;1HAccelZ: 9.515059;
+[23;80H [24;1HMagX: 0.186180;
+[23;80H [24;1HMagY: -0.225040;
+[23;80H [24;1HMagZ: -1.926180;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:24003684/41732856; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:28408604/41732856; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:30101708/41732856; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:40512259/41732856; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:40182755/41732856; Event Count: 5
+[23;80H [24;1H$GNZDA,214156.000,29,07,2020,,*41
+[23;80H [24;1H$GPGGA,214156.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*5D
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.729767;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.157837;
+[23;80H [24;1HHumidity: 38.910156;
+[23;80H [24;1HAccelX: -0.293121;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.515059;
+[23;80H [24;1HMagX: 0.189080;
+[23;80H [24;1HMagY: -0.219240;
+[23;80H [24;1HMagZ: -1.934300;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:9402052/41734781; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:32633701/41734781; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:41152506/41734781; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:41436359/41734781; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:40182755/41734781; Event Count: 5
+[23;80H [24;1H$GNZDA,214157.000,29,07,2020,,*40
+[23;80H [24;1H$GPGGA,214157.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*5C
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.940857;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.133423;
+[23;80H [24;1HHumidity: 38.910156;
+[23;80H [24;1HAccelX: -0.296112;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.513265;
+[23;80H [24;1HMagX: 0.190240;
+[23;80H [24;1HMagY: -0.220980;
+[23;80H [24;1HMagZ: -1.930820;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:1665493/41735292; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:30574659/41735292; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:41152506/41735292; Event Count: 3
+[23;80H [24;1H$GNZDA,214158.000,29,07,2020,,*4F
+[23;80H [24;1H$GPGGA,214158.000,4613.2208,N,00607.9282,E,1,8,1.09,450.3,M,48.2,M,,*53
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.905945;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.137451;
+[23;80H [24;1HHumidity: 38.910156;
+[23;80H [24;1HAccelX: -0.295514;
+[23;80H [24;1HAccelY: -0.209372;
+[23;80H [24;1HAccelZ: 9.505488;
+[23;80H [24;1HMagX: 0.190820;
+[23;80H [24;1HMagY: -0.216920;
+[23;80H [24;1HMagZ: -1.946480;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:23796481/41741669; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:28969724/41741669; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:41152506/41741669; Event Count: 3
+[23;80H [24;1H$GNZDA,214159.000,29,07,2020,,*4E
+[23;80H [24;1H$GPGGA,214159.000,4613.2208,N,00607.9282,E,1,7,1.50,450.3,M,48.2,M,,*51
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.964844;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.130615;
+[23;80H [24;1HHumidity: 38.910156;
+[23;80H [24;1HAccelX: -0.295514;
+[23;80H [24;1HAccelY: -0.208774;
+[23;80H [24;1HAccelZ: 9.510871;
+[23;80H [24;1HMagX: 0.191400;
+[23;80H [24;1HMagY: -0.217500;
+[23;80H [24;1HMagZ: -1.931980;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:11305179/41742296; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:28969724/41742296; Event Count: 2
+[23;80H [24;1H$GNZDA,214200.000,29,07,2020,,*41
+[23;80H [24;1H$GPGGA,214200.000,4613.2208,N,00607.9282,E,1,7,1.78,450.3,M,48.2,M,,*54
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.671387;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.164612;
+[23;80H [24;1HHumidity: 38.910156;
+[23;80H [24;1HAccelX: -0.296112;
+[23;80H [24;1HAccelY: -0.208176;
+[23;80H [24;1HAccelZ: 9.513265;
+[23;80H [24;1HMagX: 0.186760;
+[23;80H [24;1HMagY: -0.218660;
+[23;80H [24;1HMagZ: -1.931400;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:41970776/41745290; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:8823191/41745290; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:20226105/41745290; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:41436359/41745290; Event Count: 4
+[23;80H [24;1H$GNZDA,214201.000,29,07,2020,,*40
+[23;80H [24;1H$GPGGA,214201.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*5B
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.517609;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.182434;
+[23;80H [24;1HHumidity: 38.898438;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.212961;
+[23;80H [24;1HAccelZ: 9.516255;
+[23;80H [24;1HMagX: 0.194880;
+[23;80H [24;1HMagY: -0.221560;
+[23;80H [24;1HMagZ: -1.936040;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:11127977/41739571; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:25579013/41739571; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:20226105/41739571; Event Count: 3
+[23;80H [24;1H$GNZDA,214202.000,29,07,2020,,*43
+[23;80H [24;1H$GPGGA,214202.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*58
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.628113;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.169617;
+[23;80H [24;1HHumidity: 38.899414;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.513265;
+[23;80H [24;1HMagX: 0.192560;
+[23;80H [24;1HMagY: -0.219820;
+[23;80H [24;1HMagZ: -1.928500;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:5242028/41740114; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:25579013/41740114; Event Count: 2
+[23;80H [24;1H$GNZDA,214203.000,29,07,2020,,*42
+[23;80H [24;1H$GPGGA,214203.000,4613.2208,N,00607.9282,E,1,9,1.01,450.3,M,48.2,M,,*57
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.693787;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.162048;
+[23;80H [24;1HHumidity: 38.898438;
+[23;80H [24;1HAccelX: -0.299103;
+[23;80H [24;1HAccelY: -0.208774;
+[23;80H [24;1HAccelZ: 9.519246;
+[23;80H [24;1HMagX: 0.191980;
+[23;80H [24;1HMagY: -0.226200;
+[23;80H [24;1HMagZ: -1.932560;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:14477823/41745561; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:32060962/41745561; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:39057822/41745561; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:41436359/41745561; Event Count: 4
+[23;80H [24;1H$GNZDA,214204.000,29,07,2020,,*45
+[23;80H [24;1H$GPGGA,214204.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*5E
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.693787;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.162048;
+[23;80H [24;1HHumidity: 38.898438;
+[23;80H [24;1HAccelX: -0.296112;
+[23;80H [24;1HAccelY: -0.208774;
+[23;80H [24;1HAccelZ: 9.516255;
+[23;80H [24;1HMagX: 0.202420;
+[23;80H [24;1HMagY: -0.241860;
+[23;80H [24;1HMagZ: -1.929660;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:437509/41738295; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:24955613/41738295; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:30707880/41738295; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:41436359/41738295; Event Count: 4
+[23;80H [24;1H$GNZDA,214205.000,29,07,2020,,*44
+[23;80H [24;1H$GPGGA,214205.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*5F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.100616;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.230774;
+[23;80H [24;1HHumidity: 38.911133;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.208774;
+[23;80H [24;1HAccelZ: 9.516255;
+[23;80H [24;1HMagX: 0.207640;
+[23;80H [24;1HMagY: -0.249980;
+[23;80H [24;1HMagZ: -1.944740;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:40648889/41737543; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:24955613/41737543; Event Count: 2
+[23;80H [24;1H$GNZDA,214206.000,29,07,2020,,*47
+[23;80H [24;1H$GPGGA,214206.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*5C
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.671387;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.164612;
+[23;80H [24;1HHumidity: 38.898438;
+[23;80H [24;1HAccelX: -0.296112;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.515059;
+[23;80H [24;1HMagX: 0.218080;
+[23;80H [24;1HMagY: -0.252300;
+[23;80H [24;1HMagZ: -1.948800;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:12196461/41745384; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:18395518/41745384; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:19441421/41745384; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:34247877/41745384; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:40182755/41745384; Event Count: 5
+[23;80H [24;1H$GNZDA,214207.000,29,07,2020,,*46
+[23;80H [24;1H$GPGGA,214207.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*5D
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.569733;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.176392;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.296710;
+[23;80H [24;1HAccelY: -0.212363;
+[23;80H [24;1HAccelZ: 9.514461;
+[23;80H [24;1HMagX: 0.219820;
+[23;80H [24;1HMagY: -0.245920;
+[23;80H [24;1HMagZ: -1.941840;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:2071268/41735118; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:39987951/41735118; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:19441421/41735118; Event Count: 3
+[23;80H [24;1H$GNZDA,214208.000,29,07,2020,,*49
+[23;80H [24;1H$GPGGA,214208.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*52
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.601013;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.172791;
+[23;80H [24;1HHumidity: 38.899414;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.517452;
+[23;80H [24;1HMagX: 0.211120;
+[23;80H [24;1HMagY: -0.257520;
+[23;80H [24;1HMagZ: -1.942420;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:14723934/41741932; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:30905481/41741932; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:31233022/41741932; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:34247877/41741932; Event Count: 4
+[23;80H [24;1H$GNZDA,214209.000,29,07,2020,,*48
+[23;80H [24;1H$GPGGA,214209.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*53
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.717773;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.159241;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.298505;
+[23;80H [24;1HAccelY: -0.210568;
+[23;80H [24;1HAccelZ: 9.515059;
+[23;80H [24;1HMagX: 0.215760;
+[23;80H [24;1HMagY: -0.251140;
+[23;80H [24;1HMagZ: -1.938940;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:21100936/41739113; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:38702333/41739113; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:31233022/41739113; Event Count: 3
+[23;80H [24;1H$GNZDA,214210.000,29,07,2020,,*40
+[23;80H [24;1H$GPGGA,214210.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*5B
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.594757;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.173523;
+[23;80H [24;1HHumidity: 38.899414;
+[23;80H [24;1HAccelX: -0.296112;
+[23;80H [24;1HAccelY: -0.210568;
+[23;80H [24;1HAccelZ: 9.515059;
+[23;80H [24;1HMagX: 0.218080;
+[23;80H [24;1HMagY: -0.246500;
+[23;80H [24;1HMagZ: -1.944160;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:9677931/41742159; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:37054243/41742159; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:31233022/41742159; Event Count: 3
+[23;80H [24;1H$GNZDA,214211.000,29,07,2020,,*41
+[23;80H [24;1H$GPGGA,214211.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*5A
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.752686;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.155212;
+[23;80H [24;1HHumidity: 38.898438;
+[23;80H [24;1HAccelX: -0.298505;
+[23;80H [24;1HAccelY: -0.212961;
+[23;80H [24;1HAccelZ: 9.513265;
+[23;80H [24;1HMagX: 0.211120;
+[23;80H [24;1HMagY: -0.254620;
+[23;80H [24;1HMagZ: -1.939520;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:34011534/41742524; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:37054243/41742524; Event Count: 2
+[23;80H [24;1H$GNZDA,214212.000,29,07,2020,,*42
+[23;80H [24;1H$GPGGA,214212.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*59
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.653137;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.166748;
+[23;80H [24;1HHumidity: 38.899414;
+[23;80H [24;1HAccelX: -0.296710;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.517452;
+[23;80H [24;1HMagX: 0.215760;
+[23;80H [24;1HMagY: -0.252880;
+[23;80H [24;1HMagZ: -1.943000;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:19351791/41743769; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:20554824/41743769; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:34296532/41743769; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:34816302/41743769; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:40182755/41743769; Event Count: 5
+[23;80H [24;1H$GNZDA,214213.000,29,07,2020,,*43
+[23;80H [24;1H$GPGGA,214213.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*58
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.863708;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.142334;
+[23;80H [24;1HHumidity: 38.899414;
+[23;80H [24;1HAccelX: -0.296710;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.515657;
+[23;80H [24;1HMagX: 0.212280;
+[23;80H [24;1HMagY: -0.251140;
+[23;80H [24;1HMagZ: -1.943580;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:14412913/41736266; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:20554824/41736266; Event Count: 2
+[23;80H [24;1H$GNZDA,214214.000,29,07,2020,,*44
+[23;80H [24;1H$GPGGA,214214.000,4613.2208,N,00607.9282,E,1,9,0.97,450.3,M,48.2,M,,*5F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.811066;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.148438;
+[23;80H [24;1HHumidity: 38.898438;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.515059;
+[23;80H [24;1HMagX: 0.216920;
+[23;80H [24;1HMagY: -0.256360;
+[23;80H [24;1HMagZ: -1.950540;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:1572150/41744443; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:40032771/41744443; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:34296532/41744443; Event Count: 3
+[23;80H [24;1H$GNZDA,214215.000,29,07,2020,,*45
+[23;80H [24;1H$GPGGA,214215.000,4613.2208,N,00607.9282,E,1,9,1.01,450.3,M,48.2,M,,*50
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.325287;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.204712;
+[23;80H [24;1HHumidity: 38.900391;
+[23;80H [24;1HAccelX: -0.296112;
+[23;80H [24;1HAccelY: -0.210568;
+[23;80H [24;1HAccelZ: 9.516255;
+[23;80H [24;1HMagX: 0.218660;
+[23;80H [24;1HMagY: -0.249980;
+[23;80H [24;1HMagZ: -1.954600;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:3411109/41740154; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:40032771/41740154; Event Count: 2
+[23;80H [24;1H$GNZDA,214216.000,29,07,2020,,*46
+[23;80H [24;1H$GPGGA,214216.000,4613.2208,N,00607.9282,E,1,9,1.01,450.3,M,48.2,M,,*53
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.921570;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.135620;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.299103;
+[23;80H [24;1HAccelY: -0.210568;
+[23;80H [24;1HAccelZ: 9.515059;
+[23;80H [24;1HMagX: 0.213440;
+[23;80H [24;1HMagY: -0.245920;
+[23;80H [24;1HMagZ: -1.938360;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:34619837/41745778; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:40032771/41745778; Event Count: 2
+[23;80H [24;1H$GNZDA,214217.000,29,07,2020,,*47
+[23;80H [24;1H$GPGGA,214217.000,4613.2208,N,00607.9282,E,1,9,1.01,450.3,M,48.2,M,,*52
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.560364;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.177490;
+[23;80H [24;1HHumidity: 38.887695;
+[23;80H [24;1HAccelX: -0.296112;
+[23;80H [24;1HAccelY: -0.211765;
+[23;80H [24;1HAccelZ: 9.514461;
+[23;80H [24;1HMagX: 0.218080;
+[23;80H [24;1HMagY: -0.252880;
+[23;80H [24;1HMagZ: -1.938360;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:6373488/41746063; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:40032771/41746063; Event Count: 2
+[23;80H [24;1H$GNZDA,214218.000,29,07,2020,,*48
+[23;80H [24;1H$GPGGA,214218.000,4613.2208,N,00607.9282,E,1,9,1.01,450.3,M,48.2,M,,*5D
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.717773;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.159241;
+[23;80H [24;1HHumidity: 38.899414;
+[23;80H [24;1HAccelX: -0.293719;
+[23;80H [24;1HAccelY: -0.212363;
+[23;80H [24;1HAccelZ: 9.516255;
+[23;80H [24;1HMagX: 0.219820;
+[23;80H [24;1HMagY: -0.247660;
+[23;80H [24;1HMagZ: -1.955180;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:16887612/41746078; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:40032771/41746078; Event Count: 2
+[23;80H [24;1H$GNZDA,214219.000,29,07,2020,,*49
+[23;80H [24;1H$GPGGA,214219.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*65
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.777191;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.152344;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.297906;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.516255;
+[23;80H [24;1HMagX: 0.218660;
+[23;80H [24;1HMagY: -0.249400;
+[23;80H [24;1HMagZ: -1.949380;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:9287686/41745318; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:16737854/41745318; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:34296532/41745318; Event Count: 3
+[23;80H [24;1H$GNZDA,214220.000,29,07,2020,,*43
+[23;80H [24;1H$GPGGA,214220.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.717773;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.159241;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.295514;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.516255;
+[23;80H [24;1HMagX: 0.216340;
+[23;80H [24;1HMagY: -0.247080;
+[23;80H [24;1HMagZ: -1.943000;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:20373460/41742645; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:16737854/41742645; Event Count: 2
+[23;80H [24;1H$GNZDA,214221.000,29,07,2020,,*42
+[23;80H [24;1H$GPGGA,214221.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6E
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.745911;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.156006;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.296112;
+[23;80H [24;1HAccelY: -0.208176;
+[23;80H [24;1HAccelZ: 9.515059;
+[23;80H [24;1HMagX: 0.217500;
+[23;80H [24;1HMagY: -0.253460;
+[23;80H [24;1HMagZ: -1.945320;
+[23;80H [24;1HTemperatureCHumid:28.500000;
+[23;80H [24;1HTemperatureC: 30.260000;
+[23;80H [24;1H$GNZDA,214222.000,29,07,2020,,*41
+[23;80H [24;1H$GPGGA,214222.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6D
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.569733;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.176392;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.298505;
+[23;80H [24;1HAccelY: -0.211765;
+[23;80H [24;1HAccelZ: 9.516255;
+[23;80H [24;1HMagX: 0.216340;
+[23;80H [24;1HMagY: -0.254620;
+[23;80H [24;1HMagZ: -1.958080;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:35970396/41751917; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:16737854/41751917; Event Count: 2
+[23;80H [24;1H$GNZDA,214223.000,29,07,2020,,*40
+[23;80H [24;1H$GPGGA,214223.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6C
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.921570;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.135620;
+[23;80H [24;1HHumidity: 38.899414;
+[23;80H [24;1HAccelX: -0.299701;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.513863;
+[23;80H [24;1HMagX: 0.220400;
+[23;80H [24;1HMagY: -0.248240;
+[23;80H [24;1HMagZ: -1.949960;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:9444117/41746864; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:24522126/41746864; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:26748585/41746864; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:33473970/41746864; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:40182755/41746864; Event Count: 5
+[23;80H [24;1H$GNZDA,214224.000,29,07,2020,,*47
+[23;80H [24;1H$GPGGA,214224.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6B
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.483215;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.186401;
+[23;80H [24;1HHumidity: 38.899414;
+[23;80H [24;1HAccelX: -0.298505;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.516854;
+[23;80H [24;1HMagX: 0.219820;
+[23;80H [24;1HMagY: -0.252300;
+[23;80H [24;1HMagZ: -1.948220;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1H$GNZDA,214225.000,29,07,2020,,*46
+[23;80H [24;1H$GPGGA,214225.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6A
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.560364;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.177490;
+[23;80H [24;1HHumidity: 38.900391;
+[23;80H [24;1HAccelX: -0.296710;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.519246;
+[23;80H [24;1HMagX: 0.207060;
+[23;80H [24;1HMagY: -0.250560;
+[23;80H [24;1HMagZ: -1.945320;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:6164869/41749604; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:16803629/41749604; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:39879110/41749604; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:33473970/41749604; Event Count: 4
+[23;80H [24;1H$GNZDA,214226.000,29,07,2020,,*45
+[23;80H [24;1H$GPGGA,214226.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*69
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.912201;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.136719;
+[23;80H [24;1HHumidity: 38.887695;
+[23;80H [24;1HAccelX: -0.298505;
+[23;80H [24;1HAccelY: -0.211765;
+[23;80H [24;1HAccelZ: 9.514461;
+[23;80H [24;1HMagX: 0.218080;
+[23;80H [24;1HMagY: -0.257520;
+[23;80H [24;1HMagZ: -1.954020;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:14422924/41741146; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:16819777/41741146; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:39879110/41741146; Event Count: 3
+[23;80H [24;1H$GNZDA,214227.000,29,07,2020,,*44
+[23;80H [24;1H$GPGGA,214227.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*68
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.863708;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.142334;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.296710;
+[23;80H [24;1HAccelY: -0.209372;
+[23;80H [24;1HAccelZ: 9.515059;
+[23;80H [24;1HMagX: 0.211700;
+[23;80H [24;1HMagY: -0.252880;
+[23;80H [24;1HMagZ: -1.939520;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:4322691/41742403; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:16847899/41742403; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:26294070/41742403; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:33473970/41742403; Event Count: 4
+[23;80H [24;1H$GNZDA,214228.000,29,07,2020,,*4B
+[23;80H [24;1H$GPGGA,214228.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*67
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.443085;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.191101;
+[23;80H [24;1HHumidity: 38.887695;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.212363;
+[23;80H [24;1HAccelZ: 9.515657;
+[23;80H [24;1HMagX: 0.211700;
+[23;80H [24;1HMagY: -0.252300;
+[23;80H [24;1HMagZ: -1.948220;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:41853888/41739750; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:3733518/41739750; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:9491931/41739750; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:12789015/41739750; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:23791452/41739750; Event Count: 5
+[23;80H [24;1HEvent: sub second micros:34997537/41739750; Event Count: 6
+[23;80H [24;1HEvent: sub second micros:0/41739750; Event Count: 7
+[23;80H [24;1H$GNZDA,214229.000,29,07,2020,,*4A
+[23;80H [24;1H$GPGGA,214229.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*66
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.560364;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.177490;
+[23;80H [24;1HHumidity: 38.900391;
+[23;80H [24;1HAccelX: -0.295514;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.516854;
+[23;80H [24;1HMagX: 0.212280;
+[23;80H [24;1HMagY: -0.257520;
+[23;80H [24;1HMagZ: -1.941260;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:13984981/41728706; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:21165931/41728706; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:32893693/41728706; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:12789015/41728706; Event Count: 4
+[23;80H [24;1H$GNZDA,214230.000,29,07,2020,,*42
+[23;80H [24;1H$GPGGA,214230.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6E
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 392.029999;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.123047;
+[23;80H [24;1HHumidity: 38.887695;
+[23;80H [24;1HAccelX: -0.296710;
+[23;80H [24;1HAccelY: -0.207577;
+[23;80H [24;1HAccelZ: 9.516255;
+[23;80H [24;1HMagX: 0.214020;
+[23;80H [24;1HMagY: -0.251140;
+[23;80H [24;1HMagZ: -1.948800;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:16307529/41738279; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:22331770/41738279; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:29862066/41738279; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:30335729/41738279; Event Count: 4
+[23;80H [24;1HEvent: sub second micros:23791452/41738279; Event Count: 5
+[23;80H [24;1H$GNZDA,214231.000,29,07,2020,,*43
+[23;80H [24;1H$GPGGA,214231.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6F
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.777191;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.152344;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.299103;
+[23;80H [24;1HAccelY: -0.211167;
+[23;80H [24;1HAccelZ: 9.515657;
+[23;80H [24;1HMagX: 0.221560;
+[23;80H [24;1HMagY: -0.255200;
+[23;80H [24;1HMagZ: -1.950540;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:571260/41735761; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:2664627/41735761; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:29862066/41735761; Event Count: 3
+[23;80H [24;1H$GNZDA,214232.000,29,07,2020,,*40
+[23;80H [24;1H$GPGGA,214232.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6C
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.777191;
+[23;80H [24;1HTemperatureCBaro: 32.009998;
+[23;80H [24;1HPressure: 969.152344;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.299701;
+[23;80H [24;1HAccelY: -0.209372;
+[23;80H [24;1HAccelZ: 9.513863;
+[23;80H [24;1HMagX: 0.216340;
+[23;80H [24;1HMagY: -0.252880;
+[23;80H [24;1HMagZ: -1.934880;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.754999;
+[23;80H [24;1HEvent: sub second micros:2496243/41741654; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:13422870/41741654; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:29862066/41741654; Event Count: 3
+[23;80H [24;1H$GNZDA,214233.000,29,07,2020,,*41
+[23;80H [24;1H$GPGGA,214233.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6D
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 392.039398;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.122009;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.298505;
+[23;80H [24;1HAccelY: -0.211765;
+[23;80H [24;1HAccelZ: 9.516854;
+[23;80H [24;1HMagX: 0.219240;
+[23;80H [24;1HMagY: -0.260420;
+[23;80H [24;1HMagZ: -1.944160;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1H$GNZDA,214234.000,29,07,2020,,*46
+[23;80H [24;1H$GPGGA,214234.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6A
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.653137;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.166748;
+[23;80H [24;1HHumidity: 38.899414;
+[23;80H [24;1HAccelX: -0.299701;
+[23;80H [24;1HAccelY: -0.209970;
+[23;80H [24;1HAccelZ: 9.515657;
+[23;80H [24;1HMagX: 0.220980;
+[23;80H [24;1HMagY: -0.248820;
+[23;80H [24;1HMagZ: -1.946480;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:33339693/41751027; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:13422870/41751027; Event Count: 2
+[23;80H [24;1H$GNZDA,214235.000,29,07,2020,,*47
+[23;80H [24;1H$GPGGA,214235.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*6B
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.686493;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.162842;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.297308;
+[23;80H [24;1HAccelY: -0.210568;
+[23;80H [24;1HAccelZ: 9.515657;
+[23;80H [24;1HMagX: 0.216920;
+[23;80H [24;1HMagY: -0.252880;
+[23;80H [24;1HMagZ: -1.937780;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:32058104/41746351; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:38954213/41746351; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:29862066/41746351; Event Count: 3
+[23;80H [24;1H$GNZDA,214236.000,29,07,2020,,*44
+[23;80H [24;1H$GPGGA,214236.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*68
+[23;80H [24;1H
+[23;80H [24;1H
+[23;80H [24;1HPPS: GPS lock:1;
+[23;80H [24;1HAltitude: 391.712036;
+[23;80H [24;1HTemperatureCBaro: 32.020000;
+[23;80H [24;1HPressure: 969.159912;
+[23;80H [24;1HHumidity: 38.886719;
+[23;80H [24;1HAccelX: -0.281755;
+[23;80H [24;1HAccelY: -0.192024;
+[23;80H [24;1HAccelZ: 9.514461;
+[23;80H [24;1HMagX: 0.214600;
+[23;80H [24;1HMagY: -0.252880;
+[23;80H [24;1HMagZ: -1.946480;
+[23;80H [24;1HTemperatureCHumid:29.500000;
+[23;80H [24;1HTemperatureC: 30.760000;
+[23;80H [24;1HEvent: sub second micros:15738343/41743046; Event Count: 1
+[23;80H [24;1HEvent: sub second micros:21421253/41743046; Event Count: 2
+[23;80H [24;1HEvent: sub second micros:30741308/41743046; Event Count: 3
+[23;80H [24;1HEvent: sub second micros:30335729/41743046; Event Count: 4
+[23;80H [24;1H$GNZDA,214237.000,29,07,2020,,*45
+[23;80H [24;1H$GPGGA,214237.000,4613.2208,N,00607.9282,E,1,10,0.89,450.3,M,48.2,M,,*69[0m(B[7m[K[?12l[?25h[?25lCTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | erial0[?12l[?25h[24;73H[8;30H[?25l[0m(B+----------------------+[9;30H|    Leave Minicom?    |[10;30H|               No     |[11;30H+----------------------+[10;51H[?25l[10;33H[0m(B[7m   Yes  [?12l[?25h[8;1H[0m(BTemperatureCBaro: 32.020000;                         [9;1HPressure: 969.159912;                                [10;1HHumidity: 38.886719;                                 [11;1HAccelX: -0.281755;                                   [24;73H[0m(B[7m[?12l[?25h[?12l[?25h[0m(B[H[2J[?12l[?25h[?1l>[!p[?3;4l[4l>
