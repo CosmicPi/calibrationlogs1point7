@@ -1,0 +1,36 @@
+[!p[?3;4l[4l>[0m(B[?1h=[H[2J[?12l[?25h
+Welcome to minicom 2.7.1
+
+OPTIONS: I18n 
+Compiled on Aug 13 2017, 15:25:34.
+Port /dev/serial0, 22:37:41
+
+Press CTRL-A Z for help on special keys
+
+Setting DAC
+
+Setting DAC completed.
+Setting DAC
+
+Setting DAC completed.
+Setting HV
+Setting HV completed.
+Setting HV
+Setting HV completed.
+Cosmic Pi Version 1.7 startup 
+Initialise IMU...
+Reg writing IMU
+Reg writing mmu
+Platform init...
+[23;80H [24;1HBoot delay...
+[23;80H [24;1HID check...
+[23;80H [24;1HID return...
+[23;80H [24;1HWhoamivals imu: 104, mag: 61 
+[23;80H [24;1HConfig restore...
+[23;80H [24;1HSet scale...
+[23;80H [24;1HSet bandwidth...
+[23;80H [24;1HSet outputmode...
+[23;80H [24;1HCompleted.
+[23;80H [24;1HBMP280: found BME280
+[23;80H [24;1HLaunch GPS init
+[23;80H [24;1H[0m(B[7m[K[?12l[?25h[?25lCTRL-A Z for help | 115200 8N1 | NOR | Minicom 2.7.1 | VT102 | Offline | erial0[?12l[?25h[8;30H[?25l[0m(B+----------------------+[9;30H|    Leave Minicom?    |[10;30H|               No     |[11;30H+----------------------+[10;51H[?25l[10;33H[0m(B[7m   Yes  [?12l[?25h[8;1H[0m(BCosmic Pi Version 1.7 startup                        [9;1HInitialise IMU...                                    [10;1HReg writing IMU                                      [11;1HReg writing mmu                                      [24;1H[0m(B[7m[?12l[?25h[?12l[?25h[0m(B[H[2J[?12l[?25h[?1l>[!p[?3;4l[4l>
